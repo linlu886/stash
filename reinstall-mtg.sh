@@ -1,4 +1,3 @@
-
 cat > /root/reinstall-mtg.sh <<'SCRIPT'
 #!/usr/bin/env bash
 set -Eeuo pipefail
